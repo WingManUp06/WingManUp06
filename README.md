@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WingManUp06 (DJ)
-- 👀 I’m interested in Html, Css and Javscript
-- 🌱 I’m currently learning Advanced CSS and Basic Javascript
+- 👀 I’m interested in Full Stack Web Development and specifically Node.js
+- 🌱 I’m currently making a full stack application called RideCommercial.com
 - 💞️ I’m looking to collaborate on front end web development projects
 - 📫 How to reach me: Discord: WingManUp06#2016
 
